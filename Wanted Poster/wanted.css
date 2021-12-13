@@ -1,0 +1,55 @@
+body {
+    background-image: url(https://i.imgur.com/K6g10BB.jpg);
+
+    padding: 20px;
+}
+
+.poster {
+    height: 640px;
+    width: 488px;
+    background-image: url(https://i.imgur.com/Y9Tiq8a.jpg);
+    padding: 20px;
+    text-align: center;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #2c2222;
+text-shadow: 2px 2px 2px #CE5937;
+height: max-content;
+}
+
+img {
+    width: 300px;
+    height: 325px;
+    border: solid 2px #79502f;
+    margin: 10px;
+    filter: sepia(100%);
+}
+
+h1 {
+    font-family: 'Ewert', cursive;
+    color: #79502f;
+    font-size: 44pt;
+    font-style: normal;
+    font-weight: normal; 
+    margin: 0;
+}
+
+ #price {
+    text-decoration-style: double;
+    text-decoration-line: underline;
+    font-size: 22pt;
+
+}
+
+p {
+    font-family: ultra;
+    color: #2c2222;
+    font-size: 20px;
+    
+}
+
+div {
+    box-sizing: content-box;
+    margin: ;
+    padding: ;
+height: 20px;
+}
